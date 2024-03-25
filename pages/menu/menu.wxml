@@ -1,0 +1,5 @@
+<view class="container">
+    <van-button class="btn" block bind:tap="redirectToPage" size="normal">录入</van-button>
+    <!-- <van-button class='btn' round type="primary">查看表格</van-button> -->
+    <van-button class="btn" bind:tap="exportExcel" size="normal">导出表格</van-button>
+</view>

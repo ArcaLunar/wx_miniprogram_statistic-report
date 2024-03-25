@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+        "van-button": "@vant/weapp/button/index",
+        "wux-button": "../../miniprogram_npm/wux-weapp/button/index"
+    }
+}
